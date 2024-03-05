@@ -1,2 +1,2 @@
 # cat-generator
-The neural network that can generate photos of the cats
+The GAN that can generate photos of the cat's faces
